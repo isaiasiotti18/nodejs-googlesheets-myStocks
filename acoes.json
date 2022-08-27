@@ -1,0 +1,766 @@
+[
+  {
+    "nome": "ABC BRASIL PN",
+    "codigo": "ABCB4"
+  },
+  {
+    "nome": "ALPARGATAS PN",
+    "codigo": "ALPA4"
+  },
+  {
+    "nome": "ALUPAR UNT",
+    "codigo": "ALUP11"
+  },
+  {
+    "nome": "AMBEV ON",
+    "codigo": "ABEV3"
+  },
+  {
+    "nome": "ANIMA ON",
+    "codigo": "ANIM3"
+  },
+  {
+    "nome": "AREZZO CO ON",
+    "codigo": "ARZZ3"
+  },
+  {
+    "nome": "AZUL PN",
+    "codigo": "AZUL4"
+  },
+  {
+    "nome": "B3 ON",
+    "codigo": "B3SA3"
+  },
+  {
+    "nome": "BANRISUL PNB",
+    "codigo": "BRSR6"
+  },
+  {
+    "nome": "BB SEGURIDADE ON",
+    "codigo": "BBSE3"
+  },
+  {
+    "nome": "BK BRASIL ON",
+    "codigo": "BKBR3"
+  },
+  {
+    "nome": "BR MALLS PART ON",
+    "codigo": "BRML3"
+  },
+  {
+    "nome": "BR PROPERTIES ON",
+    "codigo": "BRPR3"
+  },
+  {
+    "nome": "BRADESCO ON",
+    "codigo": "BBDC3"
+  },
+  {
+    "nome": "BRADESCO PN",
+    "codigo": "BBDC4"
+  },
+  {
+    "nome": "BRADESPAR PN",
+    "codigo": "BRAP4"
+  },
+  {
+    "nome": "BRASIL ON",
+    "codigo": "BBAS3"
+  },
+  {
+    "nome": "BRASKEM PNA",
+    "codigo": "BRKM5"
+  },
+  {
+    "nome": "BRF ON",
+    "codigo": "BRFS3"
+  },
+  {
+    "nome": "BTGP BANCO UNT",
+    "codigo": "BPAC11"
+  },
+  {
+    "nome": "CAMIL ON",
+    "codigo": "CAML3"
+  },
+  {
+    "nome": "CARREFOUR BR ON",
+    "codigo": "CRFB3"
+  },
+  {
+    "nome": "CCR ON",
+    "codigo": "CCRO3"
+  },
+  {
+    "nome": "CEMIG ON",
+    "codigo": "CMIG3"
+  },
+  {
+    "nome": "CEMIG PN",
+    "codigo": "CMIG4"
+  },
+  {
+    "nome": "CIELO ON",
+    "codigo": "CIEL3"
+  },
+  {
+    "nome": "COMGAS PNA",
+    "codigo": "CGAS5"
+  },
+  {
+    "nome": "COPASA ON I12",
+    "codigo": "CSMG3"
+  },
+  {
+    "nome": "COPEL PNB",
+    "codigo": "CPLE6"
+  },
+  {
+    "nome": "COSAN ON",
+    "codigo": "CSAN3"
+  },
+  {
+    "nome": "COSAN LOG ON",
+    "codigo": "RLOG3"
+  },
+  {
+    "nome": "CPFL ENERGIA ON",
+    "codigo": "CPFE3"
+  },
+  {
+    "nome": "CVC BRASIL ON",
+    "codigo": "CVCB3"
+  },
+  {
+    "nome": "CYRELA REALT ON",
+    "codigo": "CYRE3"
+  },
+  {
+    "nome": "DIRECIONAL ON",
+    "codigo": "DIRR3"
+  },
+  {
+    "nome": "DOMMO ON",
+    "codigo": "DMMO3"
+  },
+  {
+    "nome": "ECORODOVIAS ON",
+    "codigo": "ECOR3"
+  },
+  {
+    "nome": "ELETROBRAS ON",
+    "codigo": "ELET3"
+  },
+  {
+    "nome": "ELETROBRAS PNB",
+    "codigo": "ELET6"
+  },
+  {
+    "nome": "EMBRAER ON",
+    "codigo": "EMBR3"
+  },
+  {
+    "nome": "ENERGIAS DO BRASIL ON",
+    "codigo": "ENBR3"
+  },
+  {
+    "nome": "ENERGISA UNIT",
+    "codigo": "ENGI11"
+  },
+  {
+    "nome": "ENEVA ON",
+    "codigo": "ENEV3"
+  },
+  {
+    "nome": "ENGIE BRASIL ON",
+    "codigo": "EGIE3"
+  },
+  {
+    "nome": "EQUATORIAL ON",
+    "codigo": "EQTL3"
+  },
+  {
+    "nome": "EVEN ON",
+    "codigo": "EVEN3"
+  },
+  {
+    "nome": "EZTEC ON",
+    "codigo": "EZTC3"
+  },
+  {
+    "nome": "FERBASA PN",
+    "codigo": "FESA4"
+  },
+  {
+    "nome": "FLEURY ON",
+    "codigo": "FLRY3"
+  },
+  {
+    "nome": "GAFISA ON",
+    "codigo": "GFSA3"
+  },
+  {
+    "nome": "GERDAU PN",
+    "codigo": "GGBR4"
+  },
+  {
+    "nome": "METALÚRGICA GERDAU PN",
+    "codigo": "GOAU4"
+  },
+  {
+    "nome": "GOL PN",
+    "codigo": "GOLL4"
+  },
+  {
+    "nome": "GRENDENE ON",
+    "codigo": "GRND3"
+  },
+  {
+    "nome": "GUARARAPES CONFECÇÕES ON",
+    "codigo": "GUAR3"
+  },
+  {
+    "nome": "HAPVIDA ON",
+    "codigo": "HAPV3"
+  },
+  {
+    "nome": "HELBOR ON",
+    "codigo": "HBOR3"
+  },
+  {
+    "nome": "HYPERA ON",
+    "codigo": "HYPE3"
+  },
+  {
+    "nome": "IHPARDINI ON",
+    "codigo": "PARD3"
+  },
+  {
+    "nome": "IMC ON",
+    "codigo": "MEAL3"
+  },
+  {
+    "nome": "NOTRE DAME INTERMÉDICA PARTICIPAÇÕES",
+    "codigo": "GNDI3"
+  },
+  {
+    "nome": "IOCHPE-MAXION ON",
+    "codigo": "MYPK3"
+  },
+  {
+    "nome": "IRB BRASIL RESSEGUROS ON",
+    "codigo": "IRBR3"
+  },
+  {
+    "nome": "ITAÚSA PN",
+    "codigo": "ITSA4"
+  },
+  {
+    "nome": "ITAÚ UNIBANCO ON",
+    "codigo": "ITUB3"
+  },
+  {
+    "nome": "ITAÚ UNIBANCO PN",
+    "codigo": "ITUB4"
+  },
+  {
+    "nome": "JBS ON",
+    "codigo": "JBSS3"
+  },
+  {
+    "nome": "KLABIN UNT",
+    "codigo": "KLBN11"
+  },
+  {
+    "nome": "LIGHT ON",
+    "codigo": "LIGT3"
+  },
+  {
+    "nome": "LOCALIZA ON",
+    "codigo": "RENT3"
+  },
+  {
+    "nome": "LOJAS MARISA ON",
+    "codigo": "AMAR3"
+  },
+  {
+    "nome": "LOJAS RENNER ON",
+    "codigo": "LREN3"
+  },
+  {
+    "nome": "M.DIAS BRANCO ON",
+    "codigo": "MDIA3"
+  },
+  {
+    "nome": "MAGAZINE LUIZA ON",
+    "codigo": "MGLU3"
+  },
+  {
+    "nome": "MARCOPOLO PN",
+    "codigo": "POMO4"
+  },
+  {
+    "nome": "MARFRIG ON",
+    "codigo": "MRFG3"
+  },
+  {
+    "nome": "METAL LEVE ON",
+    "codigo": "LEVE3"
+  },
+  {
+    "nome": "MINERVA ON",
+    "codigo": "BEEF3"
+  },
+  {
+    "nome": "MOVIDA ON",
+    "codigo": "MOVI3"
+  },
+  {
+    "nome": "MRV ON",
+    "codigo": "MRVE3"
+  },
+  {
+    "nome": "MULTIPLAN ON",
+    "codigo": "MULT3"
+  },
+  {
+    "nome": "ODONTOPREV ON",
+    "codigo": "ODPV3"
+  },
+  {
+    "nome": "OMEGA GERAÇÃO ON",
+    "codigo": "OMGE3"
+  },
+  {
+    "nome": "PETROBRAS ON",
+    "codigo": "PETR3"
+  },
+  {
+    "nome": "PETROBRAS PN",
+    "codigo": "PETR4"
+  },
+  {
+    "nome": "PETRO RIO ON",
+    "codigo": "PRIO3"
+  },
+  {
+    "nome": "PORTO SEGURO ON",
+    "codigo": "PSSA3"
+  },
+  {
+    "nome": "PORTOBELLO ON",
+    "codigo": "PTBL3"
+  },
+  {
+    "nome": "QUALICORP ON",
+    "codigo": "QUAL3"
+  },
+  {
+    "nome": "RAIA DROGASIL ON",
+    "codigo": "RADL3"
+  },
+  {
+    "nome": "RANDON PART PN",
+    "codigo": "RAPT4"
+  },
+  {
+    "nome": "RUMO ON",
+    "codigo": "RAIL3"
+  },
+  {
+    "nome": "SABESP ON",
+    "codigo": "SBSP3"
+  },
+  {
+    "nome": "SANEPAR UNIT",
+    "codigo": "SAPR11"
+  },
+  {
+    "nome": "SANTANDER BR UNIT",
+    "codigo": "SANB11"
+  },
+  {
+    "nome": "SANTOS BR PART ON",
+    "codigo": "STBP3"
+  },
+  {
+    "nome": "SÃO MARTINHO ON",
+    "codigo": "SMTO3"
+  },
+  {
+    "nome": "SER EDUCACIONAL ON",
+    "codigo": "SEER3"
+  },
+  {
+    "nome": "SID NACIONAL ON",
+    "codigo": "CSNA3"
+  },
+  {
+    "nome": "SLC AGRICOLA ON",
+    "codigo": "SLCE3"
+  },
+  {
+    "nome": "SUL AMERICA UNT",
+    "codigo": "SULA11"
+  },
+  {
+    "nome": "SUZANO PAPEL ON",
+    "codigo": "SUZB3"
+  },
+  {
+    "nome": "TAESA UNIT",
+    "codigo": "TAEE11"
+  },
+  {
+    "nome": "TEGMA ON",
+    "codigo": "TGMA3"
+  },
+  {
+    "nome": "TOTVS ON",
+    "codigo": "TOTS3"
+  },
+  {
+    "nome": "TRANS PAULISTA PN",
+    "codigo": "TRPL4"
+  },
+  {
+    "nome": "TUPY ON",
+    "codigo": "TUPY3"
+  },
+  {
+    "nome": "ULTRAPAR ON",
+    "codigo": "UGPA3"
+  },
+  {
+    "nome": "UNIPAR PNB",
+    "codigo": "UNIP6"
+  },
+  {
+    "nome": "USIMINAS PNA",
+    "codigo": "USIM5"
+  },
+  {
+    "nome": "VALE ON",
+    "codigo": "VALE3"
+  },
+  {
+    "nome": "VALID ON",
+    "codigo": "VLID3"
+  },
+  {
+    "nome": "VULCABRAS ON",
+    "codigo": "VULC3"
+  },
+  {
+    "nome": "WEG ON",
+    "codigo": "WEGE3"
+  },
+  {
+    "nome": "WIZ ON",
+    "codigo": "WIZS3"
+  },
+  {
+    "nome": "VIVARA ON",
+    "codigo": "VIVA3"
+  },
+  {
+    "nome": "CEA MODAS ON",
+    "codigo": "CEAB3"
+  },
+  {
+    "nome": "YDUQS PARTICIPAÇÕES ON",
+    "codigo": "YDUQ3"
+  },
+  {
+    "nome": "COGNA ON",
+    "codigo": "COGN3"
+  },
+  {
+    "nome": "BIOMM ON",
+    "codigo": "BIOM3"
+  },
+  {
+    "nome": "BANCO PAN PN",
+    "codigo": "BPAN4"
+  },
+  {
+    "nome": "CSU CARDSYST ON",
+    "codigo": "CARD3"
+  },
+  {
+    "nome": "FERTILIZANTES HERINGER ON",
+    "codigo": "FHER3"
+  },
+  {
+    "nome": "FRAS-LE ON",
+    "codigo": "FRAS3"
+  },
+  {
+    "nome": "METALFRIO ON",
+    "codigo": "FRIO3"
+  },
+  {
+    "nome": "POMIFRUTAS ON",
+    "codigo": "FRTA3"
+  },
+  {
+    "nome": "GENERAL SHOPPING ON",
+    "codigo": "GSHP3"
+  },
+  {
+    "nome": "GP INVESTMENTS",
+    "codigo": "GPIV33"
+  },
+  {
+    "nome": "LOPES BRASIL ON",
+    "codigo": "LPSB3"
+  },
+  {
+    "nome": "LOG-IN ON",
+    "codigo": "LOGN3"
+  },
+  {
+    "nome": "MANGELS INDL ON",
+    "codigo": "MGEL3"
+  },
+  {
+    "nome": "MILLS ON",
+    "codigo": "MILS3"
+  },
+  {
+    "nome": "OUROFINO ON",
+    "codigo": "OFSA3"
+  },
+  {
+    "nome": "OI ON",
+    "codigo": "OIBR3"
+  },
+  {
+    "nome": "PROFARMA ON",
+    "codigo": "PFRM3"
+  },
+  {
+    "nome": "PINE ON",
+    "codigo": "PINE3"
+  },
+  {
+    "nome": "ROMI ON NM",
+    "codigo": "ROMI3"
+  },
+  {
+    "nome": "PARANAPANEMA ON",
+    "codigo": "PMAM3"
+  },
+  {
+    "nome": "ROSSI RESIDENCIAL ON",
+    "codigo": "RSID3"
+  },
+  {
+    "nome": "SAO CARLOS ON",
+    "codigo": "SCAR3"
+  },
+  {
+    "nome": "SPRINGS ON",
+    "codigo": "SGPS3"
+  },
+  {
+    "nome": "TIME FOR FUN ON",
+    "codigo": "SHOW3"
+  },
+  {
+    "nome": "SARAIVA LIVREIROS ON",
+    "codigo": "SLED3"
+  },
+  {
+    "nome": "TECNISA ON",
+    "codigo": "TCSA3"
+  },
+  {
+    "nome": "TECHNOS ON",
+    "codigo": "TECN3"
+  },
+  {
+    "nome": "TELEBRAS PN",
+    "codigo": "TELB4"
+  },
+  {
+    "nome": "TENDA ON",
+    "codigo": "TEND3"
+  },
+  {
+    "nome": "TERRA SANTA ON",
+    "codigo": "TESA3"
+  },
+  {
+    "nome": "TRIUNFO PART ON",
+    "codigo": "TPIS3"
+  },
+  {
+    "nome": "TRISUL ON",
+    "codigo": "TRIS3"
+  },
+  {
+    "nome": "VIVER ON",
+    "codigo": "VIVR3"
+  },
+  {
+    "nome": "GRUPO NATURA ON",
+    "codigo": "NTCO3"
+  },
+  {
+    "nome": "P.ACUCAR - CBD ON",
+    "codigo": "PCAR3"
+  },
+  {
+    "nome": "ALPHABET",
+    "codigo": "GOGL34"
+  },
+  {
+    "nome": "MICROSOFT",
+    "codigo": "MSFT34"
+  },
+  {
+    "nome": "APPLE",
+    "codigo": "AAPL34"
+  },
+  {
+    "nome": "TESLA INC",
+    "codigo": "TSLA34"
+  },
+  {
+    "nome": "AMAZON",
+    "codigo": "AMZO34"
+  },
+  {
+    "nome": "WALT DISNEY",
+    "codigo": "DISB34"
+  },
+  {
+    "nome": "BERKSHIRE",
+    "codigo": "BERK34"
+  },
+  {
+    "nome": "FII ABC IMOB CI",
+    "codigo": "ABCP11"
+  },
+  {
+    "nome": "FII ALIANZA CI",
+    "codigo": "ALZR11"
+  },
+  {
+    "nome": "FII BB PRGII CI",
+    "codigo": "BBPO11"
+  },
+  {
+    "nome": "FII BTG",
+    "codigo": "BCFF11"
+  },
+  {
+    "nome": "FII BCIA CI",
+    "codigo": "BCIA11"
+  },
+  {
+    "nome": "FII BEES CRI",
+    "codigo": "BCRI11"
+  },
+  {
+    "nome": "FII ABSOLUTO CI",
+    "codigo": "BPFF11"
+  },
+  {
+    "nome": "FII BC FUND CI",
+    "codigo": "BRCR11"
+  },
+  {
+    "nome": "FII BR REALTY",
+    "codigo": "BZLI11"
+  },
+  {
+    "nome": "FII BB PROGR CI",
+    "codigo": "BBFI11B"
+  },
+  {
+    "nome": "FII GEN SHOP",
+    "codigo": "FIGS11"
+  },
+  {
+    "nome": "FII INDL BR CI",
+    "codigo": "FIIB11"
+  },
+  {
+    "nome": "FII S F LIMA CI  ER",
+    "codigo": "FLMA11"
+  },
+  {
+    "nome": "FII GGRCOVEP CI",
+    "codigo": "GGRC11"
+  },
+  {
+    "nome": "FII HTOPFOF3",
+    "codigo": "HFOF11"
+  },
+  {
+    "nome": "FII CSHG SHOP CI",
+    "codigo": "HGBS11"
+  },
+  {
+    "nome": "FII CSHG CRI CI",
+    "codigo": "HGCR11"
+  },
+  {
+    "nome": "FII CSHG LOG CI",
+    "codigo": "HGLG11"
+  },
+  {
+    "nome": "FII CSHG REAL CI",
+    "codigo": "HGRE11"
+  },
+  {
+    "nome": "FII HOTEL MAXINVEST CI",
+    "codigo": "HTMX11"
+  },
+  {
+    "nome": "FII IRIDIUM CI ER",
+    "codigo": "IRDM11"
+  },
+  {
+    "nome": "FII JS REAL CI",
+    "codigo": "JSRE11"
+  },
+  {
+    "nome": "FII KINEA CI",
+    "codigo": "KNCR11"
+  },
+  {
+    "nome": "FII KINEA IPCI",
+    "codigo": "KNIP11"
+  },
+  {
+    "nome": "FII KINEA CI",
+    "codigo": "KNRI11"
+  },
+  {
+    "nome": "FII MALLS BP",
+    "codigo": "MALL11"
+  },
+  {
+    "nome": "FII MERITO CI",
+    "codigo": "MFII11"
+  },
+  {
+    "nome": "FII MOGNO CI ER",
+    "codigo": "MGFF11"
+  },
+  {
+    "nome": "FII MAXI REN CI",
+    "codigo": "MXRF11"
+  },
+  {
+    "nome": "FII OURI JPPCI ER",
+    "codigo": "OUJP11"
+  },
+  {
+    "nome": "FII POLO CRI CI",
+    "codigo": "PORD11"
+  }
+]
